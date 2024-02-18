@@ -1,5 +1,5 @@
 # Bachelorthesis
-This repository includes the scripts, which I have written for my bachelorthesis
+This repository includes the scripts, which I have written for my bachelorthesis.
 
 Topic: "Beyond Virtual Reality: Studying Real World Spatial Navigation Using Eye Tracking Technology (2024)
 
